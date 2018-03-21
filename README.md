@@ -1,0 +1,1 @@
+# s2i-dash-centos7
